@@ -1,6 +1,22 @@
 [
     {
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "text": "This is one commment.",
+        "author": "Pete Hunt"
+    },
+    {
+        "text": "This is *another* comment.",
+        "author": "Jordan Walke"
+    },
+    {
+        "text": "This is beautiful.",
+        "author": "Matt Stewart"
+    },
+    {
+        "text": "This is another comment.",
+        "author": "Matt"
+    },
+    {
+        "text": "Wow. React is awesome.",
+        "author": "Matt"
     }
 ]
